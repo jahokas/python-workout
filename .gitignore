@@ -3,3 +3,4 @@ htmlcov/*
 htmlcov
 .ipynb_checkpoints
 Untitled*ipynb
+.DS_Store
